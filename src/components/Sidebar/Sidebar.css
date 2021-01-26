@@ -1,0 +1,17 @@
+.sidebar {
+    flex: 0.15;
+}
+.sidebar > hr {
+    background-color: lightgray;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 1px;
+    border: 0;
+}
+.sidebar__sub {
+    text-align: center;
+    text-transform: uppercase;
+    font-family: fantasy;
+    font-weight: lighter;
+    color: gray;
+}

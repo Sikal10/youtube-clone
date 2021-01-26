@@ -3,6 +3,7 @@
   padding: 0;
 }
 
-.app {
+.app__page {
+  display: flex;
   /*background-color: #282828;*/
 }
