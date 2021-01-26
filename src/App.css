@@ -1,18 +1,8 @@
 * {
   margin: 0;
-  border: 0;
+  padding: 0;
 }
 
-.app > input {
-  border: 1px solid blue;
-  font-size: 20px;
-  padding: 10px;
-  outline: none;
-  border-radius: 10px;
-  width: 150px;
-}
-
-.app > input:focus {
-  width: 300px;
-  transition: 1s ease width;
+.app {
+  /*background-color: #282828;*/
 }

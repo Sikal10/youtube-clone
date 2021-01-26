@@ -1,10 +1,14 @@
 import React from "react";
 import './App.css';
+import Header from "./components/Header/Header";
 
 function App() {
   return (
     <div className="app">
-      <input type="text" placeholder={"enter name"}/>
+        <Header />
+        <div className="app__page">
+
+        </div>
     </div>
   );
 }
